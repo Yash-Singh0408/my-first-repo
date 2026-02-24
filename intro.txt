@@ -1,0 +1,3 @@
+Hello, my name is Yash Singh.
+I am an MCA student interested in web development and software engineering.
+I enjoy learning new technologies and building projects.
